@@ -1,5 +1,5 @@
 # Penalty_Shootout
------------------------------------------------------->   GAME NAME : PENALTY SHOOTOUT   <-----------------------------------------------
+------------------------------------>   GAME NAME : PENALTY SHOOTOUT   <----------------
 HOW TO PLAY : 
 - Use button Down,Left,Right,Up and Space to move the arrow to shoot and save.
 GAME FORMAT :
