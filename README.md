@@ -1,6 +1,6 @@
 # Penalty_Shootout
 ------------------------------------>   GAME NAME : PENALTY SHOOTOUT   <----------------
-HOW TO PLAY : 
+HOW TO PLAY :
 - Use button Down,Left,Right,Up and Space to move the arrow to shoot and save.
 GAME FORMAT :
 - Each game has the rule which same as the normal penalty shootout rule in football.
